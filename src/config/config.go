@@ -1,10 +1,9 @@
 package config
 
 import (
+	"github.com/CasimirYang/entry-task-common/log"
 	"github.com/spf13/viper"
 	"os"
-
-	"github.com/CasimirYang/entry-task-common/log"
 )
 
 func init() {

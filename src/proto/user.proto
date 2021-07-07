@@ -14,7 +14,7 @@
 
 syntax = "proto3";
 
-option go_package = "share/proto";
+option go_package = "/proto";
 
 package proto;
 
